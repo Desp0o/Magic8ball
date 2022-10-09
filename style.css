@@ -174,7 +174,12 @@ body{
     background-color:#cc8801;
 }
 
-
+input{
+    border-radius: 10px;
+}
+input:focus{
+    outline: none;
+}
 
 
 @media (min-width:1400px) {
