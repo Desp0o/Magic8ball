@@ -7,6 +7,6 @@ window.onload = ()=>{
 }
 
 start.onclick = ()=>{
-    window.location.href = './index.html'
+    window.location.href = './magic8ball.html'
 
 }
