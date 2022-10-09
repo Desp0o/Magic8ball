@@ -13,6 +13,8 @@ window.onload = ()=>{
 
     const music = new Audio('music.mp3');
     music.play();
+    music.muted = false
+    music.autoplay = true
     music.loop =true;
     music.volume = 0.02
 
