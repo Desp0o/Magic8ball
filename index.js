@@ -14,7 +14,7 @@ window.onload = ()=>{
     const music = new Audio('music.mp3');
     music.play();
     music.loop =true;
-    music.volume = 0.015
+    music.volume = 0.02
 
 }
 
